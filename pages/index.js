@@ -35,13 +35,13 @@ export default function Home() {
         </form>
         </section>
 
-        <section className="py-16 bg-gray-50">
-          <div className="container mx-auto px-4">
-            <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-winn-blue mb-4">
+        <section>
+          <div>
+            <div>
+            <h2>
             Por que escolher a Winn Energy?
             </h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+            <p>
             Transformamos sua relação com a energia, oferecendo soluções que beneficiam você e o meio ambiente.
             </p>
             </div>

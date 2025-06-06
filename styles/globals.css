@@ -44,3 +44,7 @@ code {
   background-image: linear-gradient(to right, #26547c, #06D6A0);
   color: white;
 }
+
+.p-6 {
+  padding: 1.5rem;
+}
