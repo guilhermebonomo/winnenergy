@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Reduza sua conta de luz com energia limpa e acessível" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Descubra como a energia solar pode transformar sua economia e contribuir para um planeta mais sustentável. Soluções personalizadas da Winn Energy.
           </p>
           {/* NOVA SEÇÃO */}
           <section className="hero">
