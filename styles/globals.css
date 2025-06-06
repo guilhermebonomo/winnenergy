@@ -34,3 +34,13 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.form-leads {
+  display: flex;
+  flex-direction: column
+}
+
+.colorido {
+  background-image: linear-gradient(to right, #26547c, #06D6A0);
+  color: white;
+}

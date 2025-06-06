@@ -26,13 +26,19 @@ export default function Home() {
         {/* OUTRA SEÇÃO */}
         <section className="formulario">
         <h3>Cadastre-se para saber mais:</h3>
-        <form>
-          <label for="nome">Nome:</label>"
+        <form class="form-leads">
+          <label for="nome">Nome:</label>
           <input type="text" placeholder="Seu nome" />
           <label for="email">E-mail:</label>
           <input type="email" placeholder="Seu e-mail" />
           <button type="submit">Quero saber mais</button>
         </form>
+        </section>
+        <section>
+          <div className="colorido">
+          <h2>Empresa certificada e reconhecida</h2>
+          <p>Mais de 1.000 clientes satisfeitos e milhares de reais economizados em energia elétrica</p>
+          </div>
         </section>
       </main>
       
