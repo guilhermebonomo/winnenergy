@@ -26,7 +26,7 @@ export default function Home() {
         {/* OUTRA SEÇÃO */}
         <section className="formulario">
         <h3>Cadastre-se para saber mais:</h3>
-        <form class="form-leads" name="leads" method="POST" data-netlify="true">
+        <form className="form-leads" name="leads">
           <label for="nome">Nome:</label>
           <input type="text" placeholder="Seu nome" />
           <label for="email">E-mail:</label>
