@@ -27,7 +27,9 @@ export default function Home() {
         <section className="formulario">
         <h3>Cadastre-se para saber mais:</h3>
         <form>
+          <label for="nome">Nome:</label>"
           <input type="text" placeholder="Seu nome" />
+          <label for="email">E-mail:</label>
           <input type="email" placeholder="Seu e-mail" />
           <button type="submit">Quero saber mais</button>
         </form>
