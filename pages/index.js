@@ -34,12 +34,6 @@ export default function Home() {
           <button type="submit">Quero saber mais</button>
         </form>
         </section>
-        <section>
-          <div className="colorido">
-          <h2>Empresa certificada e reconhecida</h2>
-          <p>Mais de 1.000 clientes satisfeitos e milhares de reais economizados em energia elétrica</p>
-          </div>
-        </section>
 
         <section className="py-16 bg-gray-50">
           <div className="container mx-auto px-4">
@@ -54,6 +48,12 @@ export default function Home() {
           </div>
         </section>
 
+        <section>
+          <div className="colorido p-6">
+          <h2>Empresa certificada e reconhecida</h2>
+          <p>Mais de 1.000 clientes satisfeitos e milhares de reais economizados em energia elétrica</p>
+          </div>
+        </section>
       </main>
       
       <Footer />
